@@ -1,10 +1,5 @@
-- 👋 Hi, I’m Riva
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## 👋 Hi, I'm Riva
+Data Science, Machine Learning, Fullstack Web Developer.
 
-<!---
-XyJoinIt/XyJoinIt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
++ Read more about my Blog
++ Talk with me by Email: xiaoyun101@foxmail.com
